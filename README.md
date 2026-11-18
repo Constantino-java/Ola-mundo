@@ -1,3 +1,2 @@
 # Ola mundo
-Primeira aula 
-Meu primeiro, commit deu certo.
+Estamos aprendendo, segura o monstro kkkk
